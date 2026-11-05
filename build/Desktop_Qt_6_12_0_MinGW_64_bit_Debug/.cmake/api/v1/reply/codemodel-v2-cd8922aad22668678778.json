@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-38e82770491c5d31423e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "plotadorGrafico",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "plotadorGrafico::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-plotadorGrafico-Debug-79a0e26f6cccf1ff2cf4.json",
+					"name" : "plotadorGrafico",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "plotadorGrafico_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-plotadorGrafico_autogen-Debug-88e8f76a6f13f37bee0b.json",
+					"name" : "plotadorGrafico_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "plotadorGrafico_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-plotadorGrafico_autogen_timestamp_deps-Debug-26800f9971c79c800248.json",
+					"name" : "plotadorGrafico_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Usuario/Documents/plotador/plotadorGrafico/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "C:/Users/Usuario/Documents/plotador/plotadorGrafico"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
